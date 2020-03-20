@@ -1,0 +1,119 @@
+body{
+  font-family: 'Palanquin Dark', sans-serif;
+}
+
+.navi{
+  background-color:#02a633;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+
+.navi2{
+  background-color:red;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+
+
+.body {
+  padding: 60px 15px;
+}
+
+.links{
+  color:white;
+  margin-right:4px
+}
+
+.tresd{
+  text-shadow: 1px 3px 0px #008227, 1px 13px 5px #008227;
+}
+
+.center{
+  text-align:center;
+}
+
+.titulo{
+  color:#02a633;
+  font-size: 2.5em;
+  margin-top: 0;
+  margin-bottom: 100;
+}
+
+.titulo2{
+  color:red;
+  font-size: 2.5em;
+  margin-top: 0;
+  margin-bottom: 100;
+}
+
+.titulo3{
+  color:black;
+  font-size: 1.9em;
+  margin-top: 0;
+  margin-bottom: 100;
+}
+
+.logo{
+  height:150px;
+}
+
+.logo1{
+  height: 300px;
+}
+
+.main-container{
+  min-height: 100vh;
+}
+
+.item img{
+  width: 150px;
+}
+
+.item h3{
+  font-size: 1.7em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.card{
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.main-nav a{
+  width: 23%;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+.delay-1{
+  animation-delay: 0.1s;
+}
+
+.delay-2{
+  animation-delay: 0.2s;
+}
+
+.delay-3{
+  animation-delay: 0.3s;
+}
+
+.delay-4{
+  animation-delay: 0.4s;
+}
+
+.delay-5{
+  animation-delay: 0.5s;
+}
+
+.delay-6{
+  animation-delay: 0.6s;
+}
